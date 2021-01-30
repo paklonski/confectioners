@@ -2,9 +2,10 @@
 **Appleton Sweets** je web, kde cukráři, kteří se zabývají výrobou cukrovinek doma, mohli najít svého zákazníka tím, že vytvořili na webu nabídku se svým telefonním číslem.   
 
 ![Confectioners Web Logo](/resources/main-page-screenshot.png?raw=true "Main Page")
+----------
 ![Confectioners Sign-in Page](/resources/signin-page.png?raw=true "Sign-In Page")
+----------
 ![Confectioners Cakes Page](/resources/cakes-page.png?raw=true "Cakes Page")
-
 
 ## USE CASES
 
